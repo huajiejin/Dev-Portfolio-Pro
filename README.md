@@ -86,3 +86,5 @@ In your GitHub repository, navigate to the "Settings" tab, and scroll down to th
 ### Step 3: Deploy
 
 Push your changes to the `main` branch, and GitHub Actions will automatically deploy your portfolio to GitHub Pages in a few minutes. Once the deployment is complete, you can access your portfolio at `https://[your-username].github.io/[your-repository-name]`.
+
+If GitHub Actions are not triggered automatically, you can manually trigger the deployment by navigating to the "Actions" tab in your repository and selecting the workflow named "Deploy Next.js site to Pages". Click the "Run workflow" button to start the deployment.
